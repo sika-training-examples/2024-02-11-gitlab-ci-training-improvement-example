@@ -1,1 +1,1 @@
-include: matrix/.gitlab-ci.yml
+include: terraform/.gitlab-ci.yml
